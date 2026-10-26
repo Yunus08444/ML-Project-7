@@ -1,0 +1,5 @@
+Лучшие параметры случайного леса:
+{'max_depth': None, 'min_samples_leaf': 4, 'n_estimators': 100}
+Лучший CV RMSE: 32591.09
+Удалённые признаки: ['Alley', 'Fence', 'BsmtHalfBath', 'GarageCond', 'Condition2', 'LowQualFinSF', 'MiscFeature', 'Street', 'PoolQC', '3SsnPorch', 'Heating', 'PoolArea', 'RoofMatl', 'Utilities', 'GarageQual']
+Количество деревьев: 100
